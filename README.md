@@ -2,7 +2,7 @@
 Unreal Engine C++ Game Mechanics
 
 - [Web Site](https://snowmech.com/)
-- [YouTube Kanalı](https://www.youtube.com/@Snowmechdev)
+- [YouTube](https://www.youtube.com/@Snowmechdev)
 - [Patreon](https://patreon.com/Snowmech)
 - [Linktree](https://linktr.ee/snowmech)
 
